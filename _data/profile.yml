@@ -22,12 +22,15 @@ orcid: 0000-0003-0588-9729
 short_bio_text_justify: false
 short_bio: >-
   <p>
-Welcome!
-  </p>  <p>
-I hold a Ph.D. in Economics from the City University of New York, the Graduate Center.
-  </p>  <p>
-My research interests include Applied Microeconomic Theory, Applied Econometrics, the Digital Economy, Development, and Regional Growth Inequality.
+    Welcome!
   </p>
+  <p>
+    I hold a Ph.D. in Economics from the City University of New York, the Graduate Center.
+  </p>
+  <p>
+    My research interests include Applied Microeconomic Theory, Applied Econometrics, the Digital Economy, Development, and Regional Growth Inequality.
+  </p>
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption:
